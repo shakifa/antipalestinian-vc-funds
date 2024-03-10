@@ -3,6 +3,8 @@
 
 # antipalestinian-vc-funds
 
+# Now it is clear for everyone in the world that recognizing Israel as a country exactly  means supporting genocide.
+
 [South Africa's invocation of the Genocide
 Convention](https://www.icj-cij.org/sites/default/files/case-related/192/192-20231228-app-01-00-en.pdf)
 thoroughly documents Israel's genocide in Gaza. This genocide has been supported
