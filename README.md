@@ -85,7 +85,7 @@ We welcome PRs to:
 - to update rows to reflect a change in that support
 - or to add metadata and further documentary support to existing data
 
-# The List
+# The List of Genocide Supporters
 
 | Firm                                   | Firm Website                                                                                                                                                                  | Firm Headquarters                                            | Source                |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |-----------------------|
